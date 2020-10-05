@@ -98,6 +98,7 @@ export const Description = styled.div`
     > h2 {
         margin-bottom: 24px;
         font-size: 22px;
+        color: #444;
     }
 
     > p {

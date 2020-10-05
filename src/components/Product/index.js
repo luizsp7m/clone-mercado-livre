@@ -5,6 +5,7 @@ import { Container, Row, Panel, Column, Gallery, Section, Description } from './
 /* Components */
 import SellerInfo from '../SellerInfo';
 import Payment from '../Payment';
+import Action from '../Action';
 
 function Product() {
   return (
@@ -23,6 +24,7 @@ function Product() {
         </Column>
 
         <Column>
+          <Action />
           <SellerInfo />
           <WarrantySection />
           <Payment />
