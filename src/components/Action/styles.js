@@ -123,6 +123,7 @@ export const Buy = styled.div`
         display: flex;
         justify-content: center;
         align-items: center;
+        outline: 0;
     }
 
     .cart {

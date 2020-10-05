@@ -5,6 +5,7 @@ import { Container, Wrapper } from './styles';
 /* Components */
 import Header from '../../components/Header';
 import Product from '../../components/Product';
+import Footer from '../../components/Footer';
 
 function Home() {
   return (
@@ -13,6 +14,7 @@ function Home() {
         <Wrapper>
           <Product />
         </Wrapper>
+        <Footer />
       </Container>
   );
 }
