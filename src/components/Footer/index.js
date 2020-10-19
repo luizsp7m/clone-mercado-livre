@@ -5,7 +5,7 @@ import { Container } from './styles';
 function Footer() {
   return (
       <Container>
-        <p>Tem carburador ou não tem?</p>
+        <p>UI Clone - Mercado Livre</p>
       </Container>
   );
 }
