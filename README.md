@@ -9,7 +9,3 @@ Projeto desenvolvido para reproduzir a interface do Mercado Livre
 ## Resultado
 
 ![](https://imgur.com/kGGbXrH.gif)
-
-## Tecnologias utilizadas
-- ReactJS
-- Styled-components
