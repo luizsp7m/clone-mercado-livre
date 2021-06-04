@@ -1,11 +1,15 @@
-# UI Clone - Mercado Livre
+# Clone UI - Mercado Livre
 
-![](https://img.shields.io/github/languages/count/luizsp7m/clone-mercado-livre) ![](https://img.shields.io/github/languages/top/luizsp7m/clone-mercado-livre) ![](https://img.shields.io/github/last-commit/luizsp7m/clone-mercado-livre) ![](https://img.shields.io/github/repo-size/luizsp7m/clone-mercado-livre)
+This is a [Mercado Livre](https://www.mercadolivre.com.br/) UI Clone.
 
-## Descrição
+###### Warning: This application is not responsive.
 
-Projeto desenvolvido para reproduzir a interface do Mercado Livre
-
-## Resultado
+##### [Site URL](https://clone-mercado-livre-mu.vercel.app/) 
 
 ![](https://imgur.com/kGGbXrH.gif)
+
+### Built with
+- [React](https://reactjs.org/) - JS library
+- [Styled Components](https://styled-components.com/) - For styles
+- [React Icons](https://react-icons.github.io/react-icons/) - Icons
+- Flexbox
