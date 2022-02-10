@@ -18,7 +18,7 @@ function Product() {
       <Panel>
         <Column>
           <Gallery>
-            <img alt="Product" src="https://www.amd.com/system/files/styles/992px/private/11157-ryzen-5-pib-left-facing-1260x709.png?itok=CpyMqf0f" />
+            <img alt="Product" src="https://www.amd.com/system/files/styles/992px/private/11157-ryzen-5-pib-left-facing-1260x709.png?itok=Y1MrSalM" />
           </Gallery>
           <Info />
         </Column>
